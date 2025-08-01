@@ -17,7 +17,7 @@ lab 2
 Context  
 Use gpt-4o-mini to come up a question to evalute intelligence of a number of LLMs. Answers are provided by gpt-4o-mini,claude-3-7-sonnet-latest, gemini-2.0-flash,deepseek-chat and llama-3.3-70b-versatile . Then provide the question,responses from these LLMs without specifying model names and context for a model o3-mini acting as a judge to rank these models based on clarity and strength of argument related to responses. 
 
-The question from gpt-4o-mini
+The question from gpt-4o-mini  
 If you could redesign the ethical framework governing artificial intelligence, what fundamental principles would you prioritize, and how would you address potential conflicts between those principles in real-world applications?    
 <img width="688" height="229" alt="image" src="https://github.com/user-attachments/assets/947771e4-7bc0-4c6b-9807-27ceb97be5d6" />  
 
