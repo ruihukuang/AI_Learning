@@ -40,7 +40,9 @@ I have my linkin profile pdf and a summary text file about myself. Use gpt-4o-mi
 The chat box with gpt-4o-mini to provide answers      
 <img width="1012" height="537" alt="image" src="https://github.com/user-attachments/assets/a4bd5a47-5e2a-4e7c-b93a-80fdb53f73c5" />    
 The chat box with gemini-2.0-flash to evaluate answers and gpt-4o-mini to provide better answers with the approval from gemini-2.0-flash           
-<img width="1127" height="542" alt="image" src="https://github.com/user-attachments/assets/4232698a-8cd7-49f2-b4e9-581df879c9e6" />    
+<img width="1127" height="542" alt="image" src="https://github.com/user-attachments/assets/4232698a-8cd7-49f2-b4e9-581df879c9e6" />  
+<img width="2033" height="1000" alt="image" src="https://github.com/user-attachments/assets/c1c0a778-d446-49d4-b200-628b83bff350" />
+
 
 
 
