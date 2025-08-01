@@ -1,8 +1,8 @@
-# AI_Learning
+### AI_Learning
 
-foundation 
+##foundation 
 
-lab 1  
+#lab 1  
 Context:
 Use gpt-4.1-nano to ask a simple math question. Then use gpt-4.1-mini to come up with a question about testing IQ and then use this model again to answer this questions. 
 A simple math question from gpt-4.1-nano  
@@ -13,7 +13,7 @@ Answer this question from gpt-4.1-mini
 <img width="985" height="524" alt="image" src="https://github.com/user-attachments/assets/7f7447f4-633c-458a-afad-58d7e44bd9dd" />  
 <img width="882" height="491" alt="image" src="https://github.com/user-attachments/assets/0f2b076f-f5c3-4ac3-a3ff-c19037fee23a" />  
 
-lab 2  
+#lab 2  
 Context  
 Use gpt-4o-mini to come up a question to evalute intelligence of a number of LLMs. Answers are provided by gpt-4o-mini,claude-3-7-sonnet-latest, gemini-2.0-flash,deepseek-chat and llama-3.3-70b-versatile . Then provide the question,responses from these LLMs without specifying model names and context for a model o3-mini acting as a judge to rank these models based on clarity and strength of argument related to responses. 
 
