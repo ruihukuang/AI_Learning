@@ -32,7 +32,14 @@ Answers from deepseek-chat
 Answers from llama-3.3-70b-versatile    
 <img width="753" height="279" alt="image" src="https://github.com/user-attachments/assets/4a2a3922-c386-4ff9-ae6f-f1630e651fb9" />    
 Ranking order   
-<img width="611" height="284" alt="image" src="https://github.com/user-attachments/assets/72fcf47b-f98b-475c-b912-ff970a7b9c5e" />    
+<img width="611" height="284" alt="image" src="https://github.com/user-attachments/assets/72fcf47b-f98b-475c-b912-ff970a7b9c5e" />  
+
+### lab 3  
+Context  
+I have my linkin profile pdf and a summary text file about myself. Use gpt-4o-mini for my chat box. This chat box is to act as me and answer questions on my local website. The questions are  related to Janice's career, background, skills and experience. If he doesn't know the answer, say so.  
+The chat box  
+<img width="1012" height="537" alt="image" src="https://github.com/user-attachments/assets/a4bd5a47-5e2a-4e7c-b93a-80fdb53f73c5" />  
+
 
 
 
