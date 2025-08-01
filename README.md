@@ -36,9 +36,12 @@ Ranking order
 
 ### lab 3  
 Context  
-I have my linkin profile pdf and a summary text file about myself. Use gpt-4o-mini for my chat box. This chat box is to act as me and answer questions on my local website. The questions are  related to Janice's career, background, skills and experience. If he doesn't know the answer, say so.  
-The chat box  
-<img width="1012" height="537" alt="image" src="https://github.com/user-attachments/assets/a4bd5a47-5e2a-4e7c-b93a-80fdb53f73c5" />  
+I have my linkin profile pdf and a summary text file about myself. Use gpt-4o-mini for my chat box. This chat box is to act as me and answer questions on my local website. The questions are  related to Janice's career, background, skills and experience. If it doesn't know the answer, say so. Then use gemini-2.0-flash to evaluate the answers from gpt-4o-mini and if the answers are acceptable, they will be shown in the chat box with updated version.
+The chat box with gpt-4o-mini  
+<img width="1012" height="537" alt="image" src="https://github.com/user-attachments/assets/a4bd5a47-5e2a-4e7c-b93a-80fdb53f73c5" />    
+The chat box with gpt-4o-mini and gemini-2.0-flash  
+<img width="1127" height="542" alt="image" src="https://github.com/user-attachments/assets/4232698a-8cd7-49f2-b4e9-581df879c9e6" />    
+
 
 
 
