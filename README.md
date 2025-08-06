@@ -36,7 +36,7 @@ Ranking order
 
 ### lab 3  
 Context  
-I have my linkin profile pdf and a summary text file about myself. Use gpt-4o-mini for my chat box. This chat box is to act as me and answer questions on my local website. The questions are  related to Janice's career, background, skills and experience. If it doesn't know the answer, it could not answer. Then use gemini-2.0-flash to evaluate the answers from gpt-4o-mini. If the answers are acceptable, they will be shown in the chat box with updated version. If the answers are not acceptable, gpt-4o-mini will be used again to provide another answers.   
+I have my linkin profile pdf and a summary text file about myself. Use gpt-4o-mini for my chat box. This chat box is to act as me and answer questions on my local website. The questions are related to Janice's career, background, skills and experience. If it doesn't know the answer, it could not answer. Then use gemini-2.0-flash to evaluate the answers from gpt-4o-mini. If the answers are acceptable, they will be shown in the chat box with updated version. If the answers are not acceptable, gpt-4o-mini will be used again to provide another answers.   
 The chat box with gpt-4o-mini to provide answers      
 <img width="1012" height="537" alt="image" src="https://github.com/user-attachments/assets/a4bd5a47-5e2a-4e7c-b93a-80fdb53f73c5" />    
 The chat box with gemini-2.0-flash to evaluate answers and gpt-4o-mini to provide better answers with the approval from gemini-2.0-flash           
@@ -44,6 +44,15 @@ The chat box with gemini-2.0-flash to evaluate answers and gpt-4o-mini to provid
 <img width="2033" height="1000" alt="image" src="https://github.com/user-attachments/assets/c1c0a778-d446-49d4-b200-628b83bff350" />  
 In addition, it could require gpt-4o-mini to answer a question in certain way like using pig latin. But the provided answers could not pass the evaluation of gemini-2.0-flash. Then gpt-4o-mini is reused to provide better answers in the chat box.  
 <img width="2114" height="899" alt="image" src="https://github.com/user-attachments/assets/de12537c-f786-4598-a8c5-13994de2784e" />
+
+
+### lab 4  
+Context  
+A chat box is created to answer questions related to Janice's career, background, skills and experience. If questions could not be answered, a message will be sent to and saved in an app in pushover and I will be notified of these questions on my phone. if users want to leave contact details, a message will be sent and saved to an app in pushover on my phone as well for notifications.  
+unanswerable questions that will be sent to my phone from a chat box  
+<img width="998" height="509" alt="image" src="https://github.com/user-attachments/assets/fad35308-a4bf-4208-9268-7d252b611c20" />   
+User contact details that will be sent to my phone from a chat box  
+<img width="1027" height="500" alt="image" src="https://github.com/user-attachments/assets/a8cc91d5-7fac-4672-a215-342b8368f33d" />  
 
 
 
