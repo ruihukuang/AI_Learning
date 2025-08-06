@@ -48,7 +48,7 @@ In addition, it could require gpt-4o-mini to answer a question in certain way li
 
 ### lab 4  
 Context  
-A chat box is created to answer questions related to Janice's career, background, skills and experience. If questions could not be answered, a message will be sent to and saved in an app in pushover and I will be notified of these questions on my phone. if users want to leave contact details, a message will be sent and saved to an app in pushover on my phone as well for notifications.  
+A chat box is created to answer questions related to Janice's career, background, skills and experience. If questions could not be answered, a message will be sent to and saved in an app in pushover and I will be notified of these questions on my phone. if a users wants to leave contact details, a message will be sent to and saved in an app in pushover on my phone as well for a notification.  
 unanswerable questions that will be sent to my phone from a chat box  
 <img width="998" height="509" alt="image" src="https://github.com/user-attachments/assets/fad35308-a4bf-4208-9268-7d252b611c20" />   
 User contact details that will be sent to my phone from a chat box  
