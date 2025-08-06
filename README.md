@@ -49,10 +49,15 @@ In addition, it could require gpt-4o-mini to answer a question in certain way li
 ### lab 4  
 Context  
 A chat box is created to answer questions related to Janice's career, background, skills and experience. If questions could not be answered, a message will be sent to and saved in an app in pushover and I will be notified of these questions on my phone. if a users wants to leave contact details, a message will be sent to and saved in an app in pushover on my phone as well for a notification.  
-unanswerable questions that will be sent to my phone from a chat box  
+unanswerable questions that will be sent to my phone from a chat box. In addition, a chat box was created in a private space in HuggingFace with the URL https://huggingface.co/spaces/Janice-kuang87/career_conversation_. This chat box serves the same functions as a locally built chat box to notify me of unanswerable questions and user contact details. 
 <img width="998" height="509" alt="image" src="https://github.com/user-attachments/assets/fad35308-a4bf-4208-9268-7d252b611c20" />   
 User contact details that will be sent to my phone from a chat box  
 <img width="1027" height="500" alt="image" src="https://github.com/user-attachments/assets/a8cc91d5-7fac-4672-a215-342b8368f33d" />  
+a chat box in a private space in HuggingFace  
+<img width="1857" height="854" alt="image" src="https://github.com/user-attachments/assets/ef5f3af7-669a-4545-89af-7797f036449e" />  
+
+
+
 
 
 
